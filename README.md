@@ -1,4 +1,4 @@
-# Contoh Kasus: Membandingkan Model Regresi Linear dan Random Forest
+# Student Predict Score
 
 Repository ini berisi contoh kasus sederhana tentang bagaimana membandingkan performa dua model berbeda, yaitu Regresi Linear dan Random Forest, dalam memprediksi nilai berdasarkan fitur yang diberikan.
 
@@ -20,8 +20,8 @@ Dalam contoh kasus ini, kami menggunakan dataset yang terdiri dari dua kolom: "H
 
 Hasil dari percobaan ini adalah sebagai berikut:
 
-- R-Squared untuk Regresi Linear: 0.9605
-- R-Squared untuk Random Forest: 0.9361
+- R-Squared untuk Regresi Linear: 0.9549
+- R-Squared untuk Random Forest: 0.9057
 
 Berdasarkan hasil ini, kami dapat menyimpulkan bahwa model Regresi Linear memiliki sedikit keunggulan dalam menjelaskan variabilitas dalam data dibandingkan dengan model Random Forest.
 
@@ -30,6 +30,7 @@ Berdasarkan hasil ini, kami dapat menyimpulkan bahwa model Regresi Linear memili
 - `data.csv`: File dataset yang digunakan dalam contoh kasus.
 - `model_comparison.ipynb`: Notebook Jupyter yang berisi kode untuk pemrosesan data, pelatihan model, dan evaluasi model.
 - `README.md`: File yang berisi deskripsi dan ringkasan dari contoh kasus ini.
+- `Student Score Predict.pdf`: Dokumen penjelasan data.
 
 ### Requirement
 

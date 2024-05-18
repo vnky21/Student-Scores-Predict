@@ -27,8 +27,8 @@ Berdasarkan hasil ini, kami dapat menyimpulkan bahwa model Regresi Linear memili
 
 ### File
 
-- `data.csv`: File dataset yang digunakan dalam contoh kasus.
-- `model_comparison.ipynb`: Notebook Jupyter yang berisi kode untuk pemrosesan data, pelatihan model, dan evaluasi model.
+- `student_scores.csv`: File dataset yang digunakan dalam contoh kasus.
+- `mRivanky_Valensius_Bara_Student_Scores_Dimbimbing.ipynb`: Notebook Jupyter yang berisi kode untuk pemrosesan data, pelatihan model, dan evaluasi model.
 - `README.md`: File yang berisi deskripsi dan ringkasan dari contoh kasus ini.
 - `Student Score Predict.pdf`: Dokumen penjelasan data.
 
